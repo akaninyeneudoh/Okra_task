@@ -1,0 +1,49 @@
+1. Question:
+Hey Okra team, I’m trying to get the latest transactions and I’m hitting the https://api.okra.ng/v2/transactions/getById but 
+it’s only giving me a week old transactions for some reason. Please help! Jesse
+
+Answer:
+Hello Jesse,
+Thanks for your email. 
+
+We have reviewed your email and we would advise you try hitting https://api.okra.ng/v2/transactions/getByCustomerDate which has the criteria to 
+specify the transaction date range and customer id.
+
+I am standby for feedback or further support.
+
+Best Regards
+Akaninyene Udoh
+.....................................................................................................................................................
+2. Question:
+Hi! I’ve setup the Widget and I can connect the account, however I don’t understand how to programmatically indicate that the connection
+was successful or it thrown an error. Thanks in advance. Mike
+
+Answer:
+Hello Mike,
+Thanks for your email.
+
+We have reviewed your email and advise that since you can connect to an account, it appears the connection is successful. 
+However, we would advise you further perform a transaction or an enquiry to see if you will encounter an error.
+
+I am standby for feedback or further support.
+
+Best Regards
+Akaninyene Udoh
+.....................................................................................................................................................
+
+3. Question:
+Hello, my name is Blessing and I would like to understand how do I test Okra. I wouldn’t like to pay for my testing.
+
+Answer:
+Hi Blessing,
+
+Thanks for your email.
+In Okra, testing is free for registered merchants via the Okra sandbox environmnent.
+However if you are a new user, we can onboard you and grant you access to a test account on the Okra sandbox environment.
+
+I am standby for feedback or further support.
+
+Best Regards
+Akaninyene Udoh
+
+
