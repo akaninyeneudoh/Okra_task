@@ -1,0 +1,21 @@
+Question:
+Given the following, can you troubleshoot why the customer is having issues with these routes? 
+a. https://docs.okra.ng/reference/fetchauths
+
+Answer:
+I think the customer is having issue with the route because the API does not specify a search criteria using the customer id. 
+
+Consequently this API would retrieve bank details for all registered custommers.
+
+I would advise the customer uses the https://docs.okra.ng/reference/getByCustomerDate. This API would ensure that the bank details retrieved is limited 
+to the customer, using the customer id.
+
+
+b. https://docs.okra.ng/reference/getidentitybydate
+Answer:
+I think the customer is having issue with the route because the API does not specify a search criteria using the customer id. 
+
+Consequently this API would retrieve identity profiles for all users in a given date range
+
+I would advise the customer uses the https://docs.okra.ng/reference/getByCustomerDate. This API would ensure that the identity profile retrieved 
+is limited to the customer, using the customer id.
