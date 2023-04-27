@@ -1,0 +1,23 @@
+Question:
+How will you handle such a merchant and manage the expectations of Peter in preventing Churn.
+
+Answer:
+a. As a Technical support, I will:
+1. Review the logs of the last issue encountered on the merchants account to look out for pointers to the root cause
+ii.Turn on trace and have them perform a live transaction so I can also review
+iii. Check that the integration was mapped to the correct APIs.
+iii. Engage our Dev Team and provide them the details of my investigation for root cause identification
+
+Given that other merchants are consuming this same service without complaints, it appears the challenge is peculiar to the merchant.
+
+Firstly, I will engage the merchant by apologizing for the inconveniences the error has impacted on his business and 
+let him know that we are working assiduously to identify the root cause and fix promptly.
+
+Once the root cause has been identified, I will ensure that a hot fix is provided for this merchant firstly to avert further losses on mercfhants business
+pending a proper fix by our Dev Team.
+
+I will also ensure that an hourly update is sent to the merchant to let him know the efforts Pbeing put in place to address the complaints.
+
+
+b. Peter is our staff. I will add him to the group call to see the work done in order to resolve the issue.
+
